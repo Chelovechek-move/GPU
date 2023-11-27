@@ -1,0 +1,20 @@
+# ninja log v5
+3	3123	1701010620934862972	utils/gltf-parser/CMakeFiles/gltf-parser.dir/src/asset.cpp.o	8a13f687ae92fc13
+6111	8333	1701010626146839198	utils/gltf-parser/CMakeFiles/gltf-parser.dir/src/texture.cpp.o	6176b2841276ee32
+2	3552	1701010621362861019	utils/gltf-parser/CMakeFiles/gltf-parser.dir/src/accessor.cpp.o	3e8be0d4819e7e4
+13148	13232	1701010631026816950	_deps/simdjson-build/libsimdjson.a	787c8fe11b662e77
+4954	5256	1701082513270042494	cornell	3915d9b12341e2d6
+2654	5671	1701010623482851349	utils/gltf-parser/CMakeFiles/gltf-parser.dir/src/buffer_view.cpp.o	579fe2374299e9a3
+2	4954	1701082512966043513	CMakeFiles/cornell.dir/main.cpp.o	20785485ae9e37b5
+3552	6340	1701010624150848300	utils/gltf-parser/CMakeFiles/gltf-parser.dir/src/node.cpp.o	529310d2757ee0f0
+2	2653	1701010620466865106	utils/gltf-parser/CMakeFiles/gltf-parser.dir/src/material.cpp.o	d8a753c291960066
+3	2763	1701010620574864614	utils/gltf-parser/CMakeFiles/gltf-parser.dir/src/buffer.cpp.o	f5b2f7731f7b4141
+3123	6339	1701010624150848300	utils/gltf-parser/CMakeFiles/gltf-parser.dir/src/mesh.cpp.o	620f54fd3df0f3aa
+3	2703	1701010620514864886	utils/gltf-parser/CMakeFiles/gltf-parser.dir/src/binary_file.cpp.o	4bd81805e12432dc
+5672	8361	1701010626174839072	utils/gltf-parser/CMakeFiles/gltf-parser.dir/src/sampler.cpp.o	d8fa135959cdfd47
+2763	6110	1701010623918849359	utils/gltf-parser/CMakeFiles/gltf-parser.dir/src/json.cpp.o	52044511ab05b6bc
+2703	5776	1701010623586850875	utils/gltf-parser/CMakeFiles/gltf-parser.dir/src/image.cpp.o	16dc81f778232c20
+13232	13513	1701010631242815965	utils/gltf-parser/libgltf-parser.a	266cb09422f7556c
+5776	8442	1701010626254838707	utils/gltf-parser/CMakeFiles/gltf-parser.dir/src/scene.cpp.o	6404b83e6d5026f4
+6339	8362	1701010626174839072	utils/gltf-parser/CMakeFiles/gltf-parser.dir/src/utils/image.cpp.o	6dfac5a65670e518
+6341	13148	1701010630950817296	_deps/simdjson-build/CMakeFiles/simdjson.dir/src/simdjson.cpp.o	e3f25db1bcc27469

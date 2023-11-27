@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/code/october/cornell/cmake-build-debug/utils/gltf-parser/simdjson" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/code/october/cornell/cmake-build-release/utils/gltf-parser/simdjson" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/code/october/utils/cmake-build-debug/gltf-parser/simdjson" vcs="Git" />
+  </component>
+</project>

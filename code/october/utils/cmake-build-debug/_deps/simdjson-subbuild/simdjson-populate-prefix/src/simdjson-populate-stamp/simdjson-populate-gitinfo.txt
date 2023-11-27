@@ -1,0 +1,15 @@
+# This is a generated file and its contents are an internal implementation detail.
+# The download step will be re-executed if anything in this file changes.
+# No other meaning or use of this file is supported.
+
+method=git
+command=/snap/clion/250/bin/cmake/linux/x64/bin/cmake;-P;/home/vladimir/CLionProjects/GPU/code/october/utils/cmake-build-debug/_deps/simdjson-subbuild/simdjson-populate-prefix/tmp/simdjson-populate-gitclone.cmake
+source_dir=/home/vladimir/CLionProjects/GPU/code/october/utils/cmake-build-debug/gltf-parser/simdjson
+work_dir=/home/vladimir/CLionProjects/GPU/code/october/utils/cmake-build-debug/gltf-parser
+repository=https://github.com/simdjson/simdjson.git
+remote=origin
+init_submodules=TRUE
+recurse_submodules=--recursive
+submodules=
+CMP0097=NEW
+

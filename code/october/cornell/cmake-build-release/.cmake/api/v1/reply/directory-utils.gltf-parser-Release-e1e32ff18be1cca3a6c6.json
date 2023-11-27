@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "utils/gltf-parser",
+		"source" : "/home/vladimir/CLionProjects/GPU/code/october/utils/gltf-parser"
+	}
+}

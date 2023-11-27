@@ -1,0 +1,21 @@
+# ninja log v5
+0	3	1701083070312137594	simdjson-populate-prefix/src/simdjson-populate-stamp/simdjson-populate-mkdir	b142836a48ad9691
+0	3	1701083070312137594	/home/vladimir/CLionProjects/GPU/code/october/cornell/cmake-build-release/_deps/simdjson-subbuild/simdjson-populate-prefix/src/simdjson-populate-stamp/simdjson-populate-mkdir	b142836a48ad9691
+0	41629	1701083135431911821	simdjson-populate-prefix/src/simdjson-populate-stamp/simdjson-populate-download	80e60c6f59167fad
+0	41629	1701083135431911821	/home/vladimir/CLionProjects/GPU/code/october/cornell/cmake-build-release/_deps/simdjson-subbuild/simdjson-populate-prefix/src/simdjson-populate-stamp/simdjson-populate-download	80e60c6f59167fad
+41629	41635	0	simdjson-populate-prefix/src/simdjson-populate-stamp/simdjson-populate-update	cd9a943993c0bc5f
+41629	41635	0	/home/vladimir/CLionProjects/GPU/code/october/cornell/cmake-build-release/_deps/simdjson-subbuild/simdjson-populate-prefix/src/simdjson-populate-stamp/simdjson-populate-update	cd9a943993c0bc5f
+41635	41637	1701083135439911792	simdjson-populate-prefix/src/simdjson-populate-stamp/simdjson-populate-patch	3d592feedb3585e8
+41635	41637	1701083135439911792	/home/vladimir/CLionProjects/GPU/code/october/cornell/cmake-build-release/_deps/simdjson-subbuild/simdjson-populate-prefix/src/simdjson-populate-stamp/simdjson-populate-patch	3d592feedb3585e8
+41637	41640	1701083135443911779	simdjson-populate-prefix/src/simdjson-populate-stamp/simdjson-populate-configure	83c892bd68c5c407
+41637	41640	1701083135443911779	/home/vladimir/CLionProjects/GPU/code/october/cornell/cmake-build-release/_deps/simdjson-subbuild/simdjson-populate-prefix/src/simdjson-populate-stamp/simdjson-populate-configure	83c892bd68c5c407
+41640	41643	1701083135447911766	simdjson-populate-prefix/src/simdjson-populate-stamp/simdjson-populate-build	277efdf22b3aa5e
+41640	41643	1701083135447911766	/home/vladimir/CLionProjects/GPU/code/october/cornell/cmake-build-release/_deps/simdjson-subbuild/simdjson-populate-prefix/src/simdjson-populate-stamp/simdjson-populate-build	277efdf22b3aa5e
+41643	41645	1701083135447911766	simdjson-populate-prefix/src/simdjson-populate-stamp/simdjson-populate-install	87ff046d9092220
+41643	41645	1701083135447911766	/home/vladimir/CLionProjects/GPU/code/october/cornell/cmake-build-release/_deps/simdjson-subbuild/simdjson-populate-prefix/src/simdjson-populate-stamp/simdjson-populate-install	87ff046d9092220
+41645	41648	1701083135451911751	simdjson-populate-prefix/src/simdjson-populate-stamp/simdjson-populate-test	e60390e4d2d6c5d6
+41645	41648	1701083135451911751	/home/vladimir/CLionProjects/GPU/code/october/cornell/cmake-build-release/_deps/simdjson-subbuild/simdjson-populate-prefix/src/simdjson-populate-stamp/simdjson-populate-test	e60390e4d2d6c5d6
+41648	41651	1701083135455911738	CMakeFiles/simdjson-populate-complete	c4027337ad1cf217
+41648	41651	1701083135455911738	simdjson-populate-prefix/src/simdjson-populate-stamp/simdjson-populate-done	c4027337ad1cf217
+41648	41651	1701083135455911738	/home/vladimir/CLionProjects/GPU/code/october/cornell/cmake-build-release/_deps/simdjson-subbuild/CMakeFiles/simdjson-populate-complete	c4027337ad1cf217
+41648	41651	1701083135455911738	/home/vladimir/CLionProjects/GPU/code/october/cornell/cmake-build-release/_deps/simdjson-subbuild/simdjson-populate-prefix/src/simdjson-populate-stamp/simdjson-populate-done	c4027337ad1cf217
